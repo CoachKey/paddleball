@@ -1,1 +1,1 @@
-coded a simple paddle ball game using python3
+Coded a simple 2 player paddle ball game using python3.
