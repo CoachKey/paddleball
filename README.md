@@ -1,1 +1,1 @@
-coded a simple paddle ball gaming using python3
+coded a simple paddle ball game using python3
